@@ -1,0 +1,11 @@
+{
+    "pizzas": [
+        {"name": "Sausage", "price":200, "type":"small"},
+        {"name": "Cheese", "price":300, "type":"Medium"},
+        {"name": "Pepperoni", "price":300, "type": "Medium"},
+        {"name": "Hawaiian", "price":200, "type":"Small"},
+        {"name": "vegetable", "price":200, "type":"Small"},
+        {"name": "macaroni", "price":300, "type":"Medium"},
+        {"name": "Chicken", "price":400, "type": "Regular"}
+      ]
+}
